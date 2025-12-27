@@ -37,6 +37,7 @@ int main(){
     printf("\n> Torre: Move-se em linha reta horizontalmente ou verticalmente.\n");
     printf("> Bispo: Move-se na diagonal.\n");
     printf("> Rainha: Move-se em todas as direções.\n");
+    printf("> Cavalo: Move-se em L.\n");
 
     //Mover a torre 5 casas para a direita
     printf("\n>>> TORRE <<<\n"); // Coloco fora da estrutura para garantir um título e evitar repetição junto a cada movimento para direita
