@@ -8,7 +8,7 @@
             Torre: Move 5 casas para direita
             Bispo: Move 5 casas para a diagonal superior direita (cima direita x 5)
             Rainha: Move 8 casas para a esquerda
-            Cavalo: Move duas casas para baixo e uma para direita (NA).
+            Cavalo: Move duas casas para baixo e uma para esquerda (NA).
 
 
 2. Processamento
